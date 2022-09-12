@@ -2,7 +2,7 @@
 
 $ase230_students=[
 	['name'=>'Nicholas Caporusso'],
-	['name'=>'Tedla Tafari']
+	['name'=>'Tedla Tafari'],
 	['name'=>'Angel Munoz'],
 	['name'=>'Tami Farber'],
 	['name'=>'Seth Beesley'],
