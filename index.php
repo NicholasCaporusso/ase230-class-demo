@@ -5,7 +5,8 @@ $ase230_students=[
 	['name'=>'Tedla Tafari']
 	['name'=>'Angel Munoz'],
 	['name'=>'Tami Farber'],
-	['name'=>'Seth Beesley']
+	['name'=>'Seth Beesley'],
+	['name'=>'Teddy Amnare']
 ];
 
 $i=0;
