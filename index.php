@@ -1,6 +1,7 @@
 <?php
 
 $ase230_students=[
+	'name'=>'Nicholas Caporusso'
 ];
 
 $i=0;
