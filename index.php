@@ -2,10 +2,12 @@
 
 $ase230_students=[
 	['name'=>'Nicholas Caporusso'],
+	['name'=>'Tedla Tafari']
 	['name'=>'Angel Munoz'],
 	['name'=>'Tami Farber'],
-	['name'=>'Nick Carter'],
 	['name'=>'Seth Beesley'],
+	['name'=>'Teddy Amnare'],
+	['name'=>'Nick Carter'],
 ];
 
 $i=0;
