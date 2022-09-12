@@ -1,4 +1,5 @@
 <?php
+
 //DETAIL
 $beatles=[
 	['name'=>'John Lennon'],
