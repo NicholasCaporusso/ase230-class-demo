@@ -1,8 +1,9 @@
 <?php
 
 $ase230_students=[
-	'name'=>'Nicholas Caporusso',
-	'name'=>'Tami Farber'
+	['name'=>'Nicholas Caporusso'],
+	['name'=>'Angel Munoz'],
+	['name'=>'Tami Farber']
 ];
 
 $i=0;
