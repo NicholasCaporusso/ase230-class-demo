@@ -1,7 +1,10 @@
 <?php
 
 $ase230_students=[
-	'name'=>'Nick Carter',
+	['name'=>'Nicholas Caporusso'],
+	['name'=>'Angel Munoz'],
+	['name'=>'Tami Farber']
+	['name'=>'Nick Carter']
 ];
 
 $i=0;
